@@ -139,3 +139,19 @@ python3 scripts/inference_classification.py --class_labels class_labels.txt --au
 ```
 
 This example runs inference on audio files in the test_audios folder using audio-based domain adaptation with a park background profile.
+
+## Citation
+
+If you use this code or ideas from our work, please cite:
+
+```bibtex
+@misc{acevedo2025domainadaptationmethodmodality,
+      title={Domain Adaptation Method and Modality Gap Impact in Audio-Text Models for Prototypical Sound Classification}, 
+      author={Emiliano Acevedo and Martín Rocamora and Magdalena Fuentes},
+      year={2025},
+      eprint={2506.04376},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2506.04376}, 
+}
+```
